@@ -114,18 +114,7 @@ where:
 *   **Market Volatility:** Stock markets are inherently volatile and unpredictable. No model can perfectly predict future prices.
 *   **Simplified Model:** This project is a simplified demonstration and should not be used for actual investment decisions.
 
-## Contributing
 
-Contributions are welcome!  Please feel free to submit pull requests to improve the model, add new features, or fix bugs.  Please follow these guidelines:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with clear and concise messages.
-4.  Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
