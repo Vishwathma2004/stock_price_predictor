@@ -1,4 +1,4 @@
-# Stock Price Predictor using Linear Regression
+# Stock Price Predictor using Linear Regression Model
 
 This project implements a stock price predictor using the Linear Regression model from the scikit-learn (sklearn) library in Python.  It demonstrates a basic application of machine learning to financial data.  **Important:** Please be aware that stock price prediction is inherently complex and influenced by many factors.  This model is a simplified example and should not be used for actual investment decisions without further research and understanding.  **Past performance is not indicative of future results.**
 
@@ -44,7 +44,7 @@ You can install these dependencies using pip:
 1.  Clone the repository:
 
     ```
-    git clone 
+    git clone https://github.com/Vishwathma2004/stock_price_predictor.git
     cd stock-price-predictor
     ```
 
